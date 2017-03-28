@@ -1,7 +1,7 @@
 # DSA-MX
 Solidworks (.sldprt) models of Signature Plastics' DSA MX keycaps.
 
-Cherry profile MX keycaps
+DSA profile MX keycaps
 
 This repo contains keycaps for Solidworks keyboard models/assemblies.
 
